@@ -18,9 +18,7 @@ Repositorio dedicado al robot 3DBot montado con una placa ESP32 STEAMakers y la 
 
 Trabajar con ESP32 desde MicroBlocks utilizando la placa ESP32 STEAMakers y la Shield Imagina TdRSTEAM
 
-[**Manual de practicas ESP32 STEAMakers**]()
-
-EN PREPARACION
+[**Manual de practicas ESP32 STEAMakers**](https://github.com/fgcoca/manual_de_practicas_esp32_steamakers/blob/main/README.md)
 
 ## <FONT COLOR=#007575>**Placas varias**</font>
 
