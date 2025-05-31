@@ -1,4 +1,7 @@
 # <FONT COLOR=#8B008B>Enlaces y descripción breve</font>
+En el enlace siguiente encontrarás información sobre diversas placas e IDEs de programación:
+
+[**Guias fundamentales**](https://fgcoca.github.io/GuiasFundamentales/)
 
 ## <FONT COLOR=#007575>**ESP32**</font>
 
