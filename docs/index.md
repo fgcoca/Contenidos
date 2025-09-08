@@ -1,9 +1,16 @@
 # <FONT COLOR=#8B008B>Enlaces y descripción breve</font>
 
-## <FONT COLOR=#007575>**Compendios**</font>
-En el enlace siguiente encontrarás información sobre diversas placas e IDEs de programación:
+## <FONT COLOR=#007575>**Guias fundamentales**</font>
+En los enlaces siguientes encontrarás información sobre diversas placas e IDEs de programación:
 
-[**Guias fundamentales**](https://fgcoca.github.io/GuiasFundamentales/)
+* [**Conceptos de referencia para las guías fundamentales**]()
+* [**Guía fundamental TdRSTEAM**]()
+* [**Guía fundamental Keyestudio UNO**]()
+* [**Guía fundamental ESP32 STEAMakers**]()
+* [**Guía fundamental ESP32 micro:STEAMakers**]()
+* [**Guía fundamental Robot CoCubew**]()
+* [**Guía fundamental Sentry2**]()
+* [**Guía fundamental ED1**]()
 
 ## <FONT COLOR=#007575>**ESP32**</font>
 
