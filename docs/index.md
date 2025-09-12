@@ -3,14 +3,15 @@
 ## <FONT COLOR=#007575>**Guias fundamentales**</font>
 En los enlaces siguientes encontrarás información sobre diversas placas e IDEs de programación:
 
-* [**Conceptos de referencia para las guías fundamentales**]()
-* [**Guía fundamental TdRSTEAM**]()
-* [**Guía fundamental Keyestudio UNO**]()
-* [**Guía fundamental ESP32 STEAMakers**]()
-* [**Guía fundamental ESP32 micro:STEAMakers**]()
-* [**Guía fundamental Robot CoCubew**]()
-* [**Guía fundamental Sentry2**]()
-* [**Guía fundamental ED1**]()
+* [**Conceptos de referencia para las guías fundamentales**](https://fgcoca.github.io/Conceptos-de-referencia-para-las-guias-fundamentales/)
+* [**Guía fundamental TdRSTEAM**](https://fgcoca.github.io/GuiaFundamentalTdRSTEAM/)
+* [**Guía fundamental Keyestudio UNO**](https://fgcoca.github.io/Guia_fundamental_Keyestudio_UNO/)
+* [**Guía fundamental ESP32 STEAMakers**](https://fgcoca.github.io/Guia_fundamental_ESP32_STEAMakers/)
+* [**Guía fundamental ESP32 micro:STEAMakers**](https://fgcoca.github.io/Guia_fundamental_ESP32_microSTEAMakers/)
+* [**Conocimientos básicos de control PID (MUY PRONT)**]()
+* [**Guía fundamental Robot CoCube**](https://fgcoca.github.io/Robot_CoCube/)
+* [**Guía fundamental Sentry2 (EN DESARROLLO)**](https://fgcoca.github.io/Sensor_de_vision_artificial_Sentry2/)
+* [**Guía fundamental ED1 (MUY PRONT)**]()
 
 ## <FONT COLOR=#007575>**ESP32**</font>
 
