@@ -35,9 +35,9 @@ Trabajar con ESP32 desde MicroBlocks utilizando la placa ESP32 STEAMakers y la S
 
 ## <FONT COLOR=#007575>**Placas varias**</font>
 
-[**Guias Fundamentales**](https://fgcoca.github.io/GuiasFundamentales/)
+[**Guias Fundamentales**](https://fgcoca.github.io/Contenidos/#guias-fundamentales)
 
-En esta web vamos a encontrar diversas guías para iniciarnos en placas como Keyestudio UNO, micro:bit, ESP32 micro:STEAMakers, ESP32STEAMakers y otras.
+A través de varias webs podemos encontrar diversas guías para iniciarnos en placas como Keyestudio UNO, micro:bit, ESP32 micro:STEAMakers, ESP32STEAMakers y otras.
 
 [**Mis notas de pico explorer**](https://fgcoca.github.io/Mis-notas-de-pico-explorer/)
 
