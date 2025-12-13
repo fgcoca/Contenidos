@@ -1,11 +1,16 @@
 # <FONT COLOR=#8B008B>Enlaces y descripción breve</font>
 
+![Logotipo de esta web](./img/aux/logo200x200px.png){ align=left }
+
 ## <FONT COLOR=#007575>**Guias fundamentales**</font>
 En los enlaces siguientes encontrarás información sobre diversas placas e IDEs de programación:
 
 * [**Conceptos de referencia para las guías fundamentales**](https://fgcoca.github.io/Conceptos-de-referencia-para-las-guias-fundamentales/)
 * [**Guía fundamental TdRSTEAM**](https://fgcoca.github.io/GuiaFundamentalTdRSTEAM/)
 * [**Guía fundamental Keyestudio UNO**](https://fgcoca.github.io/Guia_fundamental_Keyestudio_UNO/)
+
+![]()
+
 * [**Guía fundamental ESP32 STEAMakers**](https://fgcoca.github.io/Guia_fundamental_ESP32_STEAMakers/)
 * [**Guía fundamental ESP32 micro:STEAMakers**](https://fgcoca.github.io/Guia_fundamental_ESP32_microSTEAMakers/)
 * [**Conocimientos básicos de control PID <FONT COLOR=#FF22FF>(MUY PRONTO)</font>**]()
