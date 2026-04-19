@@ -132,6 +132,8 @@ Repositorio con toda la información del diseño en 3D del logotipo del Club de 
 
 ## <FONT COLOR=#007575>**Varios**</font>
 
+[Mis notas sobre Linux trabajando con Ubuntu](https://fgcoca.github.io/Mis-notas-sobre-Linux-Ubuntu/)
+
 [**BlueTooth HC-05 y HC-06**](https://fgcoca.github.io/BlueTooth-HC-05-y-HC-06/)
 
 Haré una breve descripción de ambos módulos, como identificarlos y como configurarlos y trabajar con ellos.
