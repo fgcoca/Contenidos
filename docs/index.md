@@ -18,6 +18,10 @@ En los enlaces siguientes encontrarás información sobre diversas placas e IDEs
 * [**Guía fundamental Sentry2**](https://fgcoca.github.io/Sensor_de_vision_artificial_Sentry2/)
 * [**Guía fundamental ED1 <FONT COLOR=#FF22FF>(MUY PRONTO)</font>**]()
 
+## <FONT COLOR=#007575>**ESP32 STEAMakers AI**</font>
+
+[ESP32 STEAMakers AI](https://fgcoca.github.io/STEAMakers_S3_AI/)
+
 ## <FONT COLOR=#007575>**ESP32**</font>
 
 [**ESP32 STEAMakers**](https://fgcoca.github.io/ESP32-STEAMakers/)
