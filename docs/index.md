@@ -17,6 +17,7 @@ En los enlaces siguientes encontrarás información sobre diversas placas e IDEs
 * [**Guía fundamental Robot CoCube**](https://fgcoca.github.io/Robot_CoCube/)
 * [**Guía fundamental Sentry2**](https://fgcoca.github.io/Sensor_de_vision_artificial_Sentry2/)
 * [**Guía fundamental ED1 <FONT COLOR=#FF22FF>(MUY PRONTO)</font>**]()
+* [**Guia de Coding Box 2.0**](https://fgcoca.github.io/Guia_Coding_Box_2.0/)
 
 ## <FONT COLOR=#007575>**ESP32 STEAMakers AI**</font>
 
