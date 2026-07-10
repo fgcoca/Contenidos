@@ -86,6 +86,7 @@ Retos realizados a partir de una placa tipo Arduino UNO y la shield Imagina TdR-
 Semáforo óptico y acústico para indicar los niveles de CO2 presentes en un aula o espacio de trabajo para saber cuando debemos ventilar el recinto
 
 [**Basic Input-Output Shield Arduino UNO**](https://github.com/fgcoca/Basic-Input-Output-Shield-Arduino-UNO)
+
 Migración del Escudo de entradas y salidas básicas para Arduino UNO (Basic Input Output Shield) creado por Domingo Llorente del Departamento de Electrónica del IES Luis de Lucena de Guadalajara
 
 ## <FONT COLOR=#007575>**Electrónica**</font>
