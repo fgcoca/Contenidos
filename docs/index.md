@@ -70,6 +70,7 @@ Se trata de dar unas pinceladas sobre domótica y trabajar con un par de element
 Estas notas se dedican a la programación de la placa de control Ks0240 keyestudio EASY plug V2.0 con ArduinoBlocks
 
 [**Tiras y matrices de LEDs**](https://fgcoca.github.io/tiras-y-matrices-de-LEDs/)
+
 Repositorio con web dedicado a dar unas notas sobre algunos de estos elementos. El tema será tratado tanto desde el entorno gráfico de ArduinoBlocks como desde el IDE de Arduino.
 
 [**Sensores, actuadores y shield tipo Arduino**](https://fgcoca.github.io/Sensores-actuadores-y-shield-tipo-Arduino/)
